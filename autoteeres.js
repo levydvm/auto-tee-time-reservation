@@ -1,6 +1,6 @@
 // ==UserScript==
 // @name         Chateau Golf NettyCaddy Auto Tee Time Reservation
-// @version      0.2
+// @version      1.0
 // @description  Automatically book tee times at Chateau Golf and Country Club through NetCaddy's online reservation platform based on user preferences
 // @downloadURL  https://cdn.jsdelivr.net/gh/levydvm/auto-tee-time-reservation/autoteeres.js
 // @homepageURL  https://github.com/levydvm/auto-tee-time-reservation/
